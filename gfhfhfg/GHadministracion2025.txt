@@ -1,0 +1,28 @@
+GHadministracion2025
+
+GHhoteles2021*
+
+Hola Silysmar,
+
+Tal como se muestra en la captura de pantalla, el descuento se aplicó a pesar del error inicial. La cuenta había expirado y, al tomar el descuento, la fecha de vencimiento se actualizó al 24/12/2025, considerando los días vencidos.
+
+Al aplicar el segundo pago, el sistema actualizó automáticamente la fecha de expiración al 24/01/2026.
+
+En conclusión, la fecha de expiración se extendió por dos meses debido a los dos pagos realizados: el primero que inicialmente dio error y el segundo realizado con la tarjeta de Jesús.
+
+A continuación, el historial de pedidos y la información de las tarjetas utilizadas:
+
+Historial de pedidos:
+
+[Insertar captura o lista de historial de pedidos]
+
+Tarjeta de crédito de Jesús:
+
+[Insertar detalles o captura de pago con la tarjeta de Jesús]
+
+Tarjeta de crédito del Sr. Armando:
+
+[Insertar detalles o captura de pago con la tarjeta del Sr. Armando]
+
+Saludos,
+Eduardo Aponte
